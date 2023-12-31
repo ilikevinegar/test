@@ -1,0 +1,15 @@
+{
+	"port": 8080,
+	"bodyLimit": "100000kb",
+	"corsHeaders": ["Link"],
+	"projectName": "nodejspn88t979",
+	"dbConnection": {
+		"dbtype": "mysql",
+		"database": "xinwenjuhe",
+		"username": "root",
+		"password": "ssq20010424"
+	},
+	"redisConnection": "//127.0.0.1:6379",
+	"sessionSecret": "ssq",
+	"jwtSecret": "ssq"
+}
